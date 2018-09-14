@@ -77,7 +77,7 @@ end
 
 
 class BookInStock
-# YOUR CODE HERE
+# YOUR CODE HERE  . 
 attr_accessor :isbn, :price
 
   def initialize isbn, price
